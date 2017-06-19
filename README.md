@@ -1,2 +1,3 @@
 # hello-world
-daniel & grigori
+ grigori & daniel
+
